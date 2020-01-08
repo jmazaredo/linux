@@ -1,0 +1,1 @@
+$remaining_in_percentage = (sprintf '%.2f', ($remaining_fraction*100));
